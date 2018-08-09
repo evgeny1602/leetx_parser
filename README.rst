@@ -9,7 +9,7 @@ leetx_parser
    :target: https://www.travis-ci.org/evgeny1602/leetx_parser
    :alt: Latest Travis CI build status
 
-Find magnet links for TV show episodes
+Finds magnet links for TV show episodes
 
 Usage
 -----
