@@ -36,7 +36,7 @@ class Leetx_parser(object):
             raise NothingFound(search_str)
         trs = table.findAll('tr')[1:]
         tors = []
-        for tr in trs[0:1]:
+        for tr in trs[:10]:
             tor = {}
             tds = tr.findAll('td')
             a = tds[0].findAll('a')[-1]
