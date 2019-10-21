@@ -32,7 +32,7 @@ setuptools.setup(
         'requests==2.19.1',
         'scandir==1.8',
         'six==1.11.0',
-        'urllib3==1.23',    
+        'urllib3==1.24.2',    
     ],
 
     classifiers=[
